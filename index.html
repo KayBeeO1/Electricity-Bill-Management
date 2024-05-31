@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+</head>
+<body>
+    <div class="login-container">
+        <img src="bill_login.jpeg" id="loginimage" alt="Login Image">
+        <h2>Login</h2>
+        <form id="loginForm" method="post" action="login.php">
+            <div class="form-group">
+                <input type="text" id="username" placeholder="Enter your First and Last Name" name="username" required>
+            </div>
+            <div class="form-group">
+                <input type="password" id="password" placeholder="Password" name="password" required>
+            </div>
+            <div class="form-group">
+                <button type="submit">Login</button>
+            </div>
+        </form>
+        <div id="google-signin-button"></div>
+        <a href="admin.php" id="underlinetext">Login as Admin</a>
+        <p id="errorMessage" style="color: red;"></p>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

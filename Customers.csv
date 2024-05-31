@@ -1,0 +1,23 @@
+account_no,username,password,address,previous_reading,current_reading,tariff_type,meter_number,due_date,google_id,email
+10001,"Aarav Sharma",password123,"123, Main Street, Mumbai",1000.00,1200.00,residential,MTR001,2024-06-15,"Aarav Sharma",aaravsharma@gmail.com
+10002,"Aisha Patel",pass456,"456, Park Avenue, Delhi",800.50,900.25,commercial,MTR002,2024-06-18,"Aisha Patel",aishapatel@gmail.com
+10003,"Aditya Kumar",securepass,"789, Gandhi Road, Kolkata",1200.75,1350.25,residential,MTR003,2024-06-20,"Aditya Kumar",adityakumar@gmail.com
+10004,"Ananya Singh",password789,"321, MG Street, Bangalore",950.25,1050.75,commercial,MTR004,2024-06-25,"Ananya Singh",ananyasingh@gmail.com
+10005,"Aryan Gupta",userpass,"567, Lake View Road, Chennai",1100.00,1250.50,industrial,MTR005,2024-06-28,"Aryan Gupta",aryangupta@gmail.com
+10006,"Ishaan Sharma",test123,"987, River Side Avenue, Hyderabad",850.75,950.25,residential,MTR006,2024-07-05,"Ishaan Sharma",ishaansharma@gmail.com
+10007,"Jiya Singh",pass123,"741, Orchard Street, Pune",1050.25,1180.50,commercial,MTR007,2024-07-10,"Jiya Singh",jiyasingh@gmail.com
+10008,"Kabir Verma",mysecurepass,"159, Rose Garden Lane, Lucknow",950.50,1075.25,residential,MTR008,2024-07-15,"Kabir Verma",kabirverma@gmail.com
+10009,"Kiara Patel",password098,"852, Beach Road, Goa",1150.75,1300.00,commercial,MTR009,2024-07-20,"Kiara Patel",kiarapatel@gmail.com
+10010,"Krishna Reddy",passpass,"369, Hill View Road, Jaipur",1000.25,1125.50,industrial,MTR010,2024-07-25,"Krishna Reddy",krishnareddy@gmail.com
+10011,"Manan Gupta",guptapass,"963, Forest Lane, Ahmedabad",900.50,1010.25,residential,MTR011,2024-07-28,"Manan Gupta",manangupta@gmail.com
+10012,"Mohammed Khan",khanpass,"258, Desert Avenue, Bhopal",1050.75,1175.25,commercial,MTR012,2024-08-05,"Mohammed Khan",mohammedkhan@gmail.com
+10013,"Neha Singh",neha123,"741, Valley Road, Chandigarh",1100.00,1240.50,residential,MTR013,2024-08-10,"Neha Singh",nehasingh@gmail.com
+10014,"Rohan Sharma",rohanpass,"852, Skyline Street, Kochi",975.25,1080.75,commercial,MTR014,2024-08-15,"Rohan Sharma",rohansharma@gmail.com
+10015,"Riya Patel",riya456,"369, Sunset Boulevard, Indore",1200.50,1350.75,residential,MTR015,2024-08-20,"Riya Patel",riyapatel@gmail.com
+10016,"Saanvi Sharma",saanvi098,"159, Sunrise Avenue, Nagpur",1050.75,1175.25,commercial,MTR016,2024-08-25,"Saanvi Sharma",saanvisharma@gmail.com
+10017,"Samaira Patel",samaira123,"963, Moonlight Lane, Surat",1150.25,1290.75,industrial,MTR017,2024-09-05,"Samaira Patel",samairapatel@gmail.com
+10018,"Sarthak Verma",sarthakpass,"741, Ocean View Road, Visakhapatnam",1000.75,1125.25,residential,MTR018,2024-09-10,"Sarthak Verma",sarthakverma@gmail.com
+10019,"Shivansh Singh",shivansh123,"852, Mountain View Street, Varanasi",950.25,1065.50,commercial,MTR019,2024-09-15,"Shivansh Singh",shivanshsingh@gmail.com
+10020,"Vivaan Gupta",vivaanpass,"369, Riverside Avenue, Guwahati",1100.50,1235.75,residential,MTR020,2024-09-20,"Vivaan Gupta",vivaangupta@gmail.com
+10021,"Ayush Sagar",12345,"Ramgarh,Jharkhand",1000.00,1010.00,residential,MTR021,2024-05-16,"Ayush Sagar",ayushsagar@gmail.com
+10023,"Pranay Goel",123456,"453.Bareily,Uttar Pradesh",4000.00,4730.00,residential,MTR022,2024-05-31,"Pranay Goel",pranaygoel@gmail.com
